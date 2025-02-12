@@ -1,16 +1,22 @@
-# Movieshelf
+<h1 align="center">
+   <img height="80" src="https://emojigraph.org/media/microsoft/clapper-board_1f3ac.png">
+   <br>
+   <span>Movieshelf</span>
+</h1>
 
-<img src="./.github/banner.png" />
-
----
+<h4 align="center">
+    Sua estante de filmes.
+</h4>
 
 <p align="center">
-    <a href="#film_strip-sobre-o-projeto">Sobre o Projeto</a> • 
-    <a href="#art-visual-do-projeto">Visual do Projeto</a> • 
-    <a href="#wrench-tecnologias">Tecnologias</a> • 
-    <a href="#rocket-configurações-e-instalação">Configurações e Instalação</a> • 
+    <a href="#film_strip-sobre-o-projeto">Sobre o Projeto</a> •
+    <a href="#art-visual-do-projeto">Visual do Projeto</a> •
+    <a href="#wrench-tecnologias">Tecnologias</a> •
+    <a href="#rocket-configurações-e-instalação">Configurações e Instalação</a> •
     <a href="#balance_scale-licença">Licença</a>
 </p>
+
+<img src="./.github/banner.png" width="100%" />
 
 ## :film_strip: **Sobre o Projeto**
 
@@ -22,29 +28,11 @@ A Movieshelf (trocadilho com *movie*: filme, e *shelf*: estante) é uma aplicaç
 
 ## :art: **Visual do Projeto**
 
-### _Desktop e Telas Maiores_
-
-<h1 align="center">
-    <img src="./.github/desktop-1.png" style="width: 85%">
-</h1>
-
-<h1 align="center">
-    <img src="./.github/desktop-2.png" style="width: 85%">
-</h1>
-
-<h1 align="center">
-    <img src="./.github/desktop-3.png" style="width: 85%">
-</h1>
-
-### _Mobile e Telas Menores_
-
-<h1 align="center">
-    <img src="./.github/mobile-1.png" style="width: 85%;">
-</h1>
-
-<h1 align="center">
-    <img src="./.github/mobile-2.png" style="width: 85%;">
-</h1>
+![Desktop 1 Banner](./.github/desktop-1.png)
+![Desktop 2 Banner](./.github/desktop-2.png)
+![Desktop 3 Banner](./.github/desktop-3.png)
+![Mobile 1 Banner](./.github/mobile-1.png)
+![Mobile 2 Banner](./.github/mobile-2.png)
 
 ## :wrench: **Tecnologias**
 
